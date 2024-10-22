@@ -94,7 +94,8 @@ Analog simulation by SPECTRE.
 For Transient Analysis Settings and Output
  ![image](https://github.com/user-attachments/assets/47f7be45-4763
  -4d32-9eae-c417d1b7d501)
- ![WhatsApp Image 2024-10-22 at 10 28 44 PM](https://github.com/user-attachments/assets/4adc87e4-8a9d-4afe-8992-ce8ae0a910fa)
+![WhatsApp Image 2024-10-22 at 10 28 44 PM]
+
 
 
  
