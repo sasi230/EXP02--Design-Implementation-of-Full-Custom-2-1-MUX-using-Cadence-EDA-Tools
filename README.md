@@ -6,8 +6,11 @@ To design and implement a 2:1 multiplexer (MUX) circuit using Cadence EDA tools,
 ## Tools Required:
 +	Personal Computer
 +	Cadence Virtuoso Software
+
 ## Circuit Diagram:
 ![WhatsApp Image 2024-11-15 at 3 07 27 PM (1)](https://github.com/user-attachments/assets/644f306e-2325-44c7-a998-ed93c725ae46)
+
+
 ## PROCEDURE FOR CREATING THE SCHEMATIC SIMULATION
 Commands to get into Cadence
 1.	Right Click and open the terminal window
@@ -15,7 +18,7 @@ Commands to get into Cadence
 •	csh
 •	source /cadence/install/cshrc
 •	virtuoso 
-Procedure for Schematic simulation using Cadence
+#### Procedure for Schematic simulation using Cadence
 
 1.	Now two windows must open i)virtuoso/command interpreter window ii)”Whats New…”
 2.	Close the 2nd window
@@ -95,10 +98,6 @@ v.	Analog simulation by spectre
  ![image](https://github.com/user-attachments/assets/080dc6ef-4a28-4e49-8a0e-bf1085bb5313)
 
 ![Screenshot 2024-11-10 144855](https://github.com/user-attachments/assets/a0cd34fb-7c14-4100-b899-1b6333f9ec7f)
-
-
-
- 
 
 
 
